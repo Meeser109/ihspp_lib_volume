@@ -1,0 +1,4 @@
+C:/Program Files (x86)/ihspp_lib/lib/x64/ihspp.lib
+C:/Program Files (x86)/ihspp_lib/include/ihspp.hpp
+C:/Program Files (x86)/ihspp_lib/cmake/ihspp-config.cmake
+C:/Program Files (x86)/ihspp_lib/cmake/ihspp-config-release.cmake

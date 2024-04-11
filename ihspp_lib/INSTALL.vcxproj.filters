@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\shuushi\ihspp_lib-master\ihspp_lib-master\build\CMakeFiles\1aec23a5a6804c323802cdefe7f5614d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C2D2BB36-61CA-394E-807C-5DF705206B62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

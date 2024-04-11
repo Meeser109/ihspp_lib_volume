@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/opencv/build/OpenCVConfig-version.cmake
+C:/opencv/build/OpenCVConfig.cmake
+C:/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+C:/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+C:/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+C:/opencv/build/x64/vc15/lib/OpenCVModules.cmake
+C:/shuushi/ihspp_lib-master/ihspp_lib-master/test_color/CMakeLists.txt

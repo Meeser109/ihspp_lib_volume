@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\shuushi\ihspp_lib-master\ihspp_lib-master\test_color\ihspp_test_color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\shuushi\ihspp_lib-master\ihspp_lib-master\test_color\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{02C3F47A-AED0-34ED-97C5-CF884310F044}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
